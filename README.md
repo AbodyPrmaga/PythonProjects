@@ -15,6 +15,7 @@ We are always developing more and creating stronger projects, thanks to God’s 
 5. Project 5 – guess_password.py.
 6. Project 6 – skills_of_programming_user_list.
 7. Project 7 – slicing_email.
+8. And discover yourself in other ways
 
 ## 📞 Contact
 - **Telegram:** [@AbodaDev](https://t.me/AbodaDev)
